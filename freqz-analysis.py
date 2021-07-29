@@ -5,7 +5,7 @@ import os
 def Help():
 
 	print('PYTHON CHARACTER FREQUENCY ANALYSIS')
-	print('Usage python3 freqz-analysis.py -f file.txt\nor python3 freqz_analysis.py "String to analize"')
+	print('Usage python3 freqz-analysis.py -f file.txt\nor python3 freqz-analysis.py "String to analize"')
 
 def OUTPUT():
 
